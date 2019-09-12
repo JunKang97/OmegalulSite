@@ -1,0 +1,38 @@
+
+
+    body
+    {
+        background-color:aqua;
+    }
+
+    p 
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        color: red;
+    }
+
+    h1
+    {
+        color:purple;
+        font-size:100px;
+    }
+
+    div 
+    {
+        background-color:white;
+    }
+
+    #millenials-thing:hover
+    {
+        background-color:red;
+    }
+
+    a
+    {
+        transition:1000ms;
+    }
+
+    a:hover{
+        color:red;
+        font-size:50px;
+    }
